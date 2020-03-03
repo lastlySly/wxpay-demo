@@ -1,0 +1,8 @@
+wxpay:
+  appId: 111111111111111
+  appSecret: 23333
+  mchId: 11111
+  mchKey: 23333
+  keyPath: 23333
+  notifyUrl: http://localhost:8080/demo/wxcallback
+  returnUrl: 23333
